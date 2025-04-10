@@ -1,1 +1,0 @@
-# behatsdaha-shops
